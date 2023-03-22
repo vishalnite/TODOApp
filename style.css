@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background-color: rgb(243, 246, 249);
+}
+#wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 1px solid #000000;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.heading {
+    text-align: center;
+    font-family: cursive;
+    font-size: 300%;
+    color: #fa234a;
+}
+
+.itemArea {
+    font-size: 125%;
+    text-align: center;
+}
+
+.input {
+    font-size: 100%;
+}
+
+.addItem {
+    border: 2px solid #fa234a;
+    background-color: #fa234a;
+    color: #fcf7f7;
+    font-size: 100%;
+}
+
+/* For list items */
+.list {
+    text-align: left;
+}
+
+.listItem {
+    font-family:cursive;
+}
+
+.delButton {
+    margin-left: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: #afadad;
+    color: #ffffff;
+}
+/* ------------- */
+
+.done {
+    text-decoration: line-through;
+}
+
