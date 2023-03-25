@@ -48,7 +48,8 @@ body {
 
 .delButton {
     margin-left: 10px;
-    border-radius: 20px;
+    font-size: 80%;
+    border-radius: 30px;
     border: none;
     background-color: #afadad;
     color: #ffffff;
